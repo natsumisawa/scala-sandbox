@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/sawanatsumi/workspace/scala-sandbox/Main.scala:53:9: could not find implicit value for parameter F: scalaz.Functor[scala.concurrent.Future][0m
+[0m[[0m[31merror[0m] [0m[0m      b <- followersEither(user2)[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sawanatsumi/workspace/scala-sandbox/Main.scala:52:9: could not find implicit value for parameter F: scalaz.Monad[scala.concurrent.Future][0m
+[0m[[0m[31merror[0m] [0m[0m      a <- followersEither(user1)[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
